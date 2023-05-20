@@ -1,4 +1,4 @@
-# TREE-BASED-SORT USAGE
+# TREE-BASED-SORT USAGE (TBSFromFile.go)
 
 This program reads a file containing a list of integers, sorts them using a binary search tree (BST), and writes the sorted array to a new file.
 
